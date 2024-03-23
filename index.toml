@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "4a30034ae453ef088a01af1e5b61b8fc233e47e5c62a74ca4e3eb41a904dd3e1"
+
+[[files]]
 file = "config/fancymenu/assets/2024-03-23_12.49.18.png"
 hash = "4148d5e985b819217b6d144de967721716f4339232e884fb14c1215c151f3a0c"
 
@@ -105,6 +109,11 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
+file = "mods/antiblocksrechiseled.pw.toml"
+hash = "2b4e26c01dfbd17a1f7332744120e5e2fe89baf14b6b23007e612848808482bf"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
 metafile = true
@@ -137,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "1447df8a4bd1fd2cce2ae71f900f3d1f1626baa2fe37c877cef19549a4101c36"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "119c6183e0ee766c12e155250b3efff9dde67783453a1cfd421fce7ce168ca2b"
 metafile = true
 
 [[files]]
@@ -380,6 +394,11 @@ hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
 metafile = true
 
 [[files]]
+file = "mods/tips.pw.toml"
+hash = "cae825b93bc039487dfd88ed809eae3d4711a9849852953ff1bd57dc6ac6993d"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "72541a390659918193165af5197af4ed7d23a1d762d39e045b4168488cd4d08a"
 metafile = true
@@ -397,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "05bf4c054b1346db1696d76ebbbea07fc30668251a3c78905a98b3045df4dbf7"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "11c6be6047de8136ed9048f4e3ef3eaf4bfc144b5480b5b474e5c4a7b0093a10"
 metafile = true
 
 [[files]]
