@@ -1,0 +1,13 @@
+name = "Restitution"
+author = "RyzechDev"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "22d59c6ca8c072300fc0b15922cde8ac7dba9ea3f4bf9dd72b8f61de1d196764"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.102"
