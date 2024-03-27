@@ -1,0 +1,13 @@
+name = "JAOPCAGT"
+filename = "JAOPCAGTCEu-1.20.1-2.1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFWm1IQL/versions/gZShLtpl/JAOPCAGTCEu-1.20.1-2.1.1.4.jar"
+hash-format = "sha1"
+hash = "42a9da99999b03da2e328fcd4123524d0a53d60c"
+
+[update]
+[update.modrinth]
+mod-id = "DFWm1IQL"
+version = "gZShLtpl"

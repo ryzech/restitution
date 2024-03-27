@@ -1,0 +1,13 @@
+name = "PackagedExCrafting"
+filename = "PackagedExCrafting-1.20.1-3.4.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO33ACjS/versions/GsW7c7cP/PackagedExCrafting-1.20.1-3.4.0.8.jar"
+hash-format = "sha1"
+hash = "85e4debf3383e85357c3b7f18ed445268f4d22c5"
+
+[update]
+[update.modrinth]
+mod-id = "qO33ACjS"
+version = "GsW7c7cP"

@@ -1,0 +1,13 @@
+name = "World Play Time"
+filename = "worldplaytime-1.2.0-1.20.x-FORGE.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YkKeggdl/versions/dCMDB3Px/worldplaytime-1.2.0-1.20.x-FORGE.jar"
+hash-format = "sha1"
+hash = "3811b92b36b396f5e60868fc6cf133dae5f66df4"
+
+[update]
+[update.modrinth]
+mod-id = "YkKeggdl"
+version = "dCMDB3Px"
