@@ -161,11 +161,6 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
-file = "mods/antiblocksrechiseled.pw.toml"
-hash = "2b4e26c01dfbd17a1f7332744120e5e2fe89baf14b6b23007e612848808482bf"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
 metafile = true
