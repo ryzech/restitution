@@ -361,11 +361,6 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
-file = "mods/forbidden-arcanus.pw.toml"
-hash = "6b66ea9ae3f8e8750041d3ec17d471f496f29235c4f151f921bcd64f329820a9"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "d40e08f687272753df7c2651b088d4962855cd0082df5bfe5cb20b6f8ca71f25"
 metafile = true
@@ -673,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "f836c2365476322130a2ae84481478206adfa576b4904cea93d26f7f22546d0d"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "291b739cd1f5c3faa1d9c7de0ef3b414f479dfd71ef6c0eed4f79eeba4514ac3"
 metafile = true
 
 [[files]]

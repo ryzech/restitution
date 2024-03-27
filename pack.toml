@@ -1,12 +1,12 @@
 name = "Restitution"
 author = "RyzechDev"
-version = "1.0.2"
+version = "1.0.2-patch"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7a9b8c5eb4190c2f9f73edfbcb9ca16d7a4f1ce503d5805a2bb1b62be5deb6d2"
+hash = "c48897cb3344936ed4143556d75c8b8c2601f95ab1b719558598612fc81ab129"
 
 [versions]
 minecraft = "1.20.1"
