@@ -93,52 +93,156 @@ file = "config/jsg/jsgConfig_1.0/Stargate.toml"
 hash = "4ccd8b138dd754a5c1563d7fa0f24cfea4039000f295f389e9f05099bd67f8ec"
 
 [[files]]
-file = "config/tips.json"
-hash = "fc484eee7e0610bf93331b612d31229de0dc80533d42b1ebcd99366a782b3799"
-
-[[files]]
-file = "kubejs/README.txt"
+file = "config/kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/restitution/textures/item/bound_leather.png"
+file = "config/kubejs/assets/restitution/textures/block/black.png"
+hash = "ff82040ee53787fe748d64936d1462a1cfdd9b69677fc4558e966a5dd8e08d5f"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/blue.png"
+hash = "4c5d1f611ef29ed3271a91317ff27a943ace7bab4ee050a2ebf12bfb4c53f12e"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/brown.png"
+hash = "865d883dc878d92cd90495887646e438d8e5c23c11eed21dbcdad480bf1cf706"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/cyan.png"
+hash = "4a539b3cc1955b9bc920188cdd0d340c0125c4c5f77fff1ae4451876f2a54659"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/gray.png"
+hash = "aff614e0455ce3f979aeaad00eb281fc248b213c9adde5485f185c2f136971ee"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/green.png"
+hash = "0bb9419d5fd3c10850cbf3c9c818fd9ec8ad1c88af4d94bda1ebd2aeb1d2fdec"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/light_blue.png"
+hash = "22098b2f0cff0397376b9581ad3427723a9322801599491433c96ca49c2c01d9"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/light_gray.png"
+hash = "c346d0c7a78e41405073dc4eca0f3def6ade6c57dab913a84d99de187cc43fa2"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/lime.png"
+hash = "948dcf223088899d7356e3f9d54ad91f24176c7ad65abd39f4cdd931942fceac"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/magenta.png"
+hash = "84f1bc9674ec9e760362ec3b7c532d521cc96dce9b16b660d3fa2e93609ce1df"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/orange.png"
+hash = "c8db4fbcd6cf84517c406abbe48aefd8a59b1ee4a8579857601e1a61dcda26de"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/pink.png"
+hash = "9d9ab83dd3b67774f6855df1e42376bbeee7007aac335d128a3fc9ad13717375"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/purple.png"
+hash = "4f9e7a0fa73768368713ff6113a272b66c2cd1813397399045469909421aa76b"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/red.png"
+hash = "787b3e429f60f3e39ebd5bbb75a058e8b2d74d512e86581f22109e386c5103ae"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/white.png"
+hash = "5fbcea7004474dc8c8dbf31832d3daf8ad27f200340e88fcdf81836b573d3037"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/block/yellow.png"
+hash = "75f9ce8dba7680340b44d9b5fc475218338e35c183647ce7c52b552f89e590b4"
+
+[[files]]
+file = "config/kubejs/assets/restitution/textures/item/bound_leather.png"
 hash = "0458ee290fe048ffe684b697e96ec8d6bb47b9dc7d85c5d5d63100658ad225f5"
 
 [[files]]
-file = "kubejs/assets/restitution/textures/item/tanned_leather.png"
+file = "config/kubejs/assets/restitution/textures/item/tanned_leather.png"
 hash = "ad26d9721a7e64af9a3f01e09e3ab99bd053119cd138a9df8dad836d7c6ec1f9"
 
 [[files]]
-file = "kubejs/assets/restitution/tips/lore.json"
+file = "config/kubejs/assets/restitution/tips/lore.json"
 hash = "8a7fdbbaabb2f6ee4cf8eb68cae9ec40464cf42399e532038bf1093ba3c17b2a"
 
 [[files]]
-file = "kubejs/assets/restitution/tips/test.json"
+file = "config/kubejs/assets/restitution/tips/test.json"
 hash = "ec7ebecc12fdcd5b09ed8b2bad60cdb7f9c7932b9541ce19a9da2f71a4bf823b"
 
 [[files]]
-file = "kubejs/config/client.properties"
+file = "config/kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "config/kubejs/config/client.properties"
 hash = "0cd4446f22947b18af0f9e477b958910d828f644a1a87dc8670d55e92d825604"
 
 [[files]]
-file = "kubejs/config/common.properties"
-hash = "6989d72b90a09fd91763f66fb3b2ade7f2eac9c3b11e3c76a71aaf0aa7886dc9"
+file = "config/kubejs/config/common.properties"
+hash = "4f7b67f5a8120233cb2bb2d5bba1d5c3ce2e3213373ab2674c1775e04c66aae6"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/expert/restitution/leatherrecipes.js"
+file = "config/kubejs/config/probejs.json"
+hash = "3d028164a40d697a336f73af0110d5579f625b3a6ed382bd2fbaece27549f0c3"
+
+[[files]]
+file = "config/kubejs/jsconfig.json"
+hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
+
+[[files]]
+file = "config/kubejs/server_scripts/recipes/expert/ad_astra/suits.js"
+hash = "e2c8e57ffcc49f8176dc9acc667f94bec1bafedac96beb6feeb4d0832faa6ae2"
+
+[[files]]
+file = "config/kubejs/server_scripts/recipes/expert/iron_chests/chests.js"
+hash = "d56751ef857381b9a69f9835ace49c571f375fb597a48235515497a03a74f7a5"
+
+[[files]]
+file = "config/kubejs/server_scripts/recipes/expert/iron_chests/removedefault.js"
+hash = "ad33c900272e03c59bd284cc15d44fc7f8b03c76182c2297bfd571551ce2d079"
+
+[[files]]
+file = "config/kubejs/server_scripts/recipes/expert/iron_chests/upgrades.js"
+hash = "d769da380765ca66a6b9124d26a067b538ca65f44831f92e4f20c36ca4f5a9e0"
+
+[[files]]
+file = "config/kubejs/server_scripts/recipes/expert/railcraft/tanks.js"
+hash = "463c536c76ef2af8206414382e2b283bdf5b5dedc0b4774f5d95d7043586c896"
+
+[[files]]
+file = "config/kubejs/server_scripts/recipes/expert/restitution/antiblocks.js"
+hash = "2356d7f9d33f72b0492c916bc3be9749e541783deef3764eaa759ab03283dd34"
+
+[[files]]
+file = "config/kubejs/server_scripts/recipes/expert/restitution/leatherrecipes.js"
 hash = "9857cfcd10871b8f7c61dc93b378fdaa9a8556a537a4299b554c21126c9d9cbb"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/expert/travelersbackpack/backpackrecipes.js"
+file = "config/kubejs/server_scripts/recipes/expert/travelersbackpack/backpackrecipes.js"
 hash = "904936050025faf471ac7be0421aaef19abcc60131f8da0e8f205804d0f29320"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/expert/travelersbackpack/sleepingbagrecipes.js"
+file = "config/kubejs/server_scripts/recipes/expert/travelersbackpack/sleepingbagrecipes.js"
 hash = "00903a1a50917e064ebfffb883fe706f906b5dcd9ed9c1cf7d462ae7bd52fdc4"
 
 [[files]]
-file = "kubejs/startup_scripts/all/items/ItemRegistry.js"
+file = "config/kubejs/startup_scripts/all/blocks/AntiBlocks.js"
+hash = "bf39dd19f0e38b412f6d04c2e9fd5e3787672cae1a9f4b6325f2170b9d7bfb9b"
+
+[[files]]
+file = "config/kubejs/startup_scripts/all/items/ItemRegistry.js"
 hash = "f9f0bcccdb8d91c78a27a8d5e80005af2ffd49cce093f3d69e668a30e14c16b5"
+
+[[files]]
+file = "config/tips.json"
+hash = "fc484eee7e0610bf93331b612d31229de0dc80533d42b1ebcd99366a782b3799"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
